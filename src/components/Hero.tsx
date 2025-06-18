@@ -70,14 +70,7 @@ export const Hero = () => {
               ✓ Sem contrato de fidelidade • ✓ Cancele quando quiser • ✓ Garantia de 7 dias
             </p>
           </div>
-
-          <div className="relative">
-            <div className="relative bg-gradient-to-br from-blue-500/20 to-purple-500/20 rounded-3xl p-8 backdrop-blur-sm border border-white/10">
-              <img 
-                src="https://images.unsplash.com/photo-1721322800607-8c38375eef04?w=600&h=400&fit=crop"
-                alt="Smart TV exibindo streaming"
-                className="w-full h-64 object-cover rounded-2xl"
-              />
+          
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent rounded-2xl"></div>
               <div className="absolute bottom-4 left-4 right-4 text-white">
                 <p className="font-semibold">Assista em qualquer dispositivo</p>

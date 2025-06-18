@@ -1,4 +1,3 @@
-
 import { Button } from "@/components/ui/button";
 import { Play, Shield, Clock } from "lucide-react";
 
@@ -55,11 +54,12 @@ export const Hero = () => {
                 variant="outline" 
                 size="lg" 
                 className="
-    bg-white text-purple-600
-    hover:text-white
-    hover:bg-gradient-to-r hover:from-blue-700 hover:to-purple-700
-    transition-all duration-300
-    py-6 px-8">
+                  bg-white text-purple-600
+                  hover:text-white
+                  hover:bg-gradient-to-r hover:from-blue-700 hover:to-purple-700
+                  transition-all duration-300
+                  py-6 px-8"
+              >
                 Ver Demonstração
               </Button>
             </div>
@@ -67,9 +67,6 @@ export const Hero = () => {
             <p className="text-sm text-gray-400">
               ✓ Sem contrato de fidelidade • ✓ Cancele quando quiser • ✓ Garantia de 7 dias
             </p>
-          </div>
-
-            </div>
           </div>
         </div>
       </div>

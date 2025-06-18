@@ -54,7 +54,7 @@ export const Hero = () => {
               <Button 
                 variant="outline" 
                 size="lg" 
-                className="border-white text-purple-600 hover:bg-white hover:text-gray-900 py-6 px-8"
+                className="border-white text-purple-600 hover:from-bg-white hover:to-bg-gradient-to-r from-blue-600 to-purple-600 hover:text-white py-6 px-8"
               >
                 Ver Demonstração
               </Button>

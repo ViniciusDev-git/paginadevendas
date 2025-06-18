@@ -67,7 +67,7 @@ export const Plans = () => {
             Escolha seu Plano
           </h2>
           <p className="text-xl text-gray-600">
-            Todos os planos incluem acesso imediato e garantia de 7 days
+            Todos os planos incluem acesso imediato e garantia de 7 dias
           </p>
         </div>
 

@@ -69,12 +69,7 @@ export const Hero = () => {
             <p className="text-sm text-gray-400">
               ✓ Sem contrato de fidelidade • ✓ Cancele quando quiser • ✓ Garantia de 7 dias
             </p>
-          </div>
-          
-              <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent rounded-2xl"></div>
-              <div className="absolute bottom-4 left-4 right-4 text-white">
-                <p className="font-semibold">Assista em qualquer dispositivo</p>
-                <p className="text-sm opacity-90">TV, celular, tablet, notebook</p>
+                  </div>
               </div>
             </div>
           </div>
